@@ -11,3 +11,13 @@ How+to+generate+Digital+Keys+for+EFRIS
 Step+by+step+guide+on+how+to+integrate+System2system+on+EFRIS
 
 Interface+Design+for+EFRIS+v20.1-en
+
+
+Prequisites:
+
+1. Private_key file in .p12 formart
+2. Certificate Password
+
+Refer to "How+to+generate+Digital+Keys+for+EFRIS" to generate certificate
+
+
