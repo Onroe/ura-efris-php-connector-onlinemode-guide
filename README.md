@@ -2,7 +2,7 @@
 
 PHP script for integrating with the Uganda Revenue Authority (URA) EFRIS (Electronic Fiscal Receipting and Invoicing System) using online mode.
 
-Official Efris Documentation
+Official Efris Documentation below, can be downloaded from the efis site: https://efris.ura.go.ug/
 
 Step+by+step+guide+for+EFRIS+device+and+thumbprint+registration
 
