@@ -13,7 +13,7 @@ Step+by+step+guide+on+how+to+integrate+System2system+on+EFRIS
 Interface+Design+for+EFRIS+v20.1-en
 
 
-Prequisites:
+Prerequisites:
 
 1. Private_key file in .p12 formart
 2. Certificate Password
